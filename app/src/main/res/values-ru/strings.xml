@@ -1,0 +1,28 @@
+<resources>
+    <string name="st_library">Библиотека</string>
+    <string name="st_search">Поиск</string>
+    <string name="st_authors">Авторы</string>
+    <string name="st_settings">Настройки</string>
+    <string name="st_book">Книга</string>
+    <string name="st_edit">Изменить</string>
+    <string name="st_books">Книги</string>
+    <string name="st_title_series">Серии</string>
+    <string name="st_continue">Продолжить</string>
+    <string name="st_cancel">Отмена</string>
+    <string name="st_title_request_permissions">Предоставьте доступ к хранилищу</string>
+    <string name="st_request_permissions">Чтобы приложение могло открывать книги и документы, необходимо разрешить доступ к файлам на устройстве.</string>
+    <string name="st_empty_collection">Тут ничего нет...</string>
+    <string name="st_read">Читать</string>
+    <string name="st_unknown">Неизвестно</string>
+    <string name="st_more">Ещё</string>
+    <string name="st_no_descr">Описание отсутствует.</string>
+    <string name="st_other_books_in_series">Другие книги серии</string>
+    <string name="st_show_all">Показать все</string>
+    <string name="st_series">Серия</string>
+    <string name="st_volume">Том</string>
+    <string name="st_publisher">Издательство</string>
+    <string name="st_year">Год</string>
+    <string name="st_lang">Язык</string>
+    <string name="st_translator">Переводчик</string>
+    <string name="st_about_file">Информация о файле</string>
+</resources>
